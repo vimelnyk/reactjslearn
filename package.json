@@ -18,5 +18,8 @@
   "homepage": "https://github.com/vimelnyk/reactjslearn#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2"
   }
 }
